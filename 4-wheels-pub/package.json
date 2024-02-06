@@ -10,10 +10,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@heroicons/react": "^2.1.1",
+    "@react-google-maps/api": "^2.19.2",
+    "animate.css": "^4.1.1",
+    "google-map-react": "^2.2.1",
     "react": "^18.2.0",
+    "react-animation-on-scroll": "^5.1.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.19.0",
-    "styled-components": "^6.1.1"
+    "styled-components": "^6.1.8"
   },
   "devDependencies": {
     "@types/react": "^18.2.37",
